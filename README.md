@@ -1,1 +1,2 @@
 # TransferLearning_with_pytorch
+With the google collab notebook uploaded,we can clearly understand the power of Tranfer Learning.I have made use of the Imagewoof dataset to create a model making use of the another pre-trained model Resnet-50,achieving a accuracy of over 90%;I have also shown how the model performs without the help of the pre-trained model giving an accuracy of just over 30%,thus marking the importance of Transfer Learning aka Pre-trained Models in the field of Deep Learning and Artificial Intelligence.  
