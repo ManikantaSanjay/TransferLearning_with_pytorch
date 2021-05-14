@@ -3,6 +3,8 @@ With the google collab notebook uploaded,we can clearly understand the power of 
 
 ### Libraries Used
 **i> PyTorch
+
 ii> MatplotLib
+
 iii> OS**
 
